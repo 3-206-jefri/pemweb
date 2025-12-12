@@ -104,6 +104,9 @@ npm run build
 4. **Frontend akan tersedia di:** **http://127.0.0.1:6543** (dilayani oleh backend)
 
 ---
+## UI 
+<img width="912" height="937" alt="image" src="https://github.com/user-attachments/assets/240efbd8-aa1a-4f04-b253-a6bfd69622f2" />
+<img width="566" height="516" alt="image" src="https://github.com/user-attachments/assets/3fd6ee75-5fd9-4406-b97d-164a731b1d35" />
 
 ## Endpoint API
 
